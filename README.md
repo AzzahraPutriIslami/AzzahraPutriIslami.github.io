@@ -1,2 +1,2 @@
 # AzzahraPutriIslami.github.io
-CV Web
+CV_Web_Azzahra
